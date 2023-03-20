@@ -58,7 +58,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->  Comming Soon
+>  Coming Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,11 +105,11 @@ To run the project, execute the following command
 
 ### Run tests
 
->  Comming Soon
+>  Coming Soon
 
 ### Deployment
 
->  Comming Soon
+>  Coming Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
