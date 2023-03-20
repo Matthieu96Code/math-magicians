@@ -105,15 +105,11 @@ To run the project, execute the following command
 
 ### Run tests
 
-```sh
-  comming Soon
-```
+>  Comming Soon
 
 ### Deployment
 
-```sh
-  comming Soon
-```
+>  Comming Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
