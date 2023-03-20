@@ -66,45 +66,54 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 
 In order to run this project you need:
 
-```sh
- to use Git, GitHub and linters.
- vs code
-```
+- Install [Node.js](https://nodejs.org/en/).
+- Code editor e.g. [VS code](https://code.visualstudio.com/download).
+- Version Control System e.g. [git-scm](https://git-scm.com/downloads).
+
 
 ### Setup
 
-Clone this repository to your desired folder: (https://github.com/Matthieu96Code/math-magicians.git)
-
+Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Matthieu96Code/math-magicians.git/tree/dev
+  git clone https://github.com/Matthieu96Code/math-magicians.git
 ```
 
 ### Install
 
-Not required
+Install this project with:
+
+```sh
+  cd my-project
+  npm install
+```
 
 ### Usage
 
-To run the project, execute the following action:
-launch the index.html file with your desired browser
+To run the project, execute the following command
 
+```sh
+  npm start
+```
 
 ### Run tests
 
-To run tests, run the following command:
-
-launch the index.html file with your desired browser
+```sh
+  comming Soon
+```
 
 ### Deployment
 
-N/A
-
+```sh
+  comming Soon
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
