@@ -37,7 +37,7 @@
 .special {
   border: none;
   border-top: solid 1px lightgray;
-  border-left: solid 1px lightgray;
+  border-right: solid 1px lightgray;
 }
 
 .btn-0 {
