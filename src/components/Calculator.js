@@ -29,3 +29,4 @@ const Calculator = () => (
   </div>
 );
 
+export default Calculator;
