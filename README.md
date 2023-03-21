@@ -51,6 +51,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Use of React**
+- **calculator design**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +59,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->  Coming Soon
+- [Live demo](https://matthieu96code.github.io/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
