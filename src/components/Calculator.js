@@ -3,11 +3,11 @@ const Buttons = () => (
     <button type="button" className="calc-btn btn-ac special">AC</button>
     <button type="button" className="calc-btn btn-+/- special">+/-</button>
     <button type="button" className="calc-btn btn-% special">%</button>
-    <button type="button" className="calc-btn btn-/ operation">/</button>
+    <button type="button" className="calc-btn btn-÷ operation">÷</button>
     <button type="button" className="calc-btn btn-7 numbers">7</button>
     <button type="button" className="calc-btn btn-8 numbers">8</button>
     <button type="button" className="calc-btn btn-9 numbers">9</button>
-    <button type="button" className="calc-btn btn-* operation">*</button>
+    <button type="button" className="calc-btn btn-× operation">×</button>
     <button type="button" className="calc-btn btn-4 numbers">4</button>
     <button type="button" className="calc-btn btn-5 numbers">5</button>
     <button type="button" className="calc-btn btn-6 numbers">6</button>

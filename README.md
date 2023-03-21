@@ -51,6 +51,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Use of React**
+- **calculator design**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

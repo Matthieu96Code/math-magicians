@@ -33,7 +33,8 @@
   background-color: orange;
 }
 
-.numbers {
+.numbers,
+.special {
   border-left: solid 1px whitesmoke;
 }
 
