@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live demo](https://matthieu96code.github.io/math-magicians/)
+> coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
