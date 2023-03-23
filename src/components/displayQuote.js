@@ -25,8 +25,9 @@ const Quotes = () => {
   }, [setData]);
 
   return (
-    <div>
-      {data || 'loading ...'}
+    <div className="quote">
+      <h1 className="quote-title">Quote</h1>
+      <p>{data || 'loading ...'}</p>
     </div>
   );
 };
