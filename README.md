@@ -52,6 +52,7 @@
 
 - **Use of React**
 - **calculator design**
+- **operation** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
