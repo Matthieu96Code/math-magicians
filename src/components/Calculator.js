@@ -1,13 +1,12 @@
 import React, { useState } from 'react';
-import Buttons from './CalcButtons';
-// import calculate from '../logic/calculate'
+import calculate from '../logic/calculate';
 
 const Calculator = () => {
   const [result, setResult] = useState(0);
 
-  const getData = (data) => {
-    setResult(data);
-    console.log(result);
+  const btnClick = (e) => {
+    const operation = calculate(result, e.target.textContent);
+    setResult(operation);
   };
 
     <div className="calculator">
