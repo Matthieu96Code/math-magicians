@@ -3,7 +3,7 @@ import Navbar from './Navbar';
 
 const Layout = () => (
   <>
-    <h1>Layout</h1>
+    <h1>Math Magicians</h1>
     <Navbar />
     <Outlet />
   </>

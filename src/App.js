@@ -10,7 +10,8 @@ function App() {
   return (
     <Routes>
       <Route path="math-magicians/" element={<Layout />}>
-        <Route path="home" index element={<Home />} />
+        <Route index element={<Home />} />
+        <Route index path="home" element={<Home />} />
         <Route path="calculator" element={<Calculator />} />
         <Route path="quote" element={<Quotes />} />
       </Route>
