@@ -6,19 +6,22 @@
 
 .menuList {
   margin: 0;
-  padding: 10px;
+  padding: 10%;
   display: flex;
   justify-content: space-around;
 }
 
 .listElement {
-  margin: 0 6px;
+  margin: 0 6%;
   list-style: none;
-  text-decoration: none;
 }
 
 .linkedList {
   font-size: 18px;
   text-decoration: none;
   color: snow;
+}
+
+.linkedList:hover {
+  color: greenyellow;
 }

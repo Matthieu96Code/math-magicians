@@ -13,7 +13,7 @@ const Navbar = () => (
     <ul className={styles.menuList}>
       {links.map((link) => (
         <li className={styles.listElement} key={link.text}>
-          <NavLink className={styles.linkedList} to={link.path}>{link.text}</NavLink>
+          <NavLink to={link.path} className={styles.linkedList}>{link.text}</NavLink>
         </li>
       ))}
     </ul>

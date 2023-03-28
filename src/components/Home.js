@@ -1,6 +1,8 @@
+import styles from '../styles/Body.module.css';
+
 const Home = () => (
-  <nav className="home">
-    <h1>Welcome to our page!</h1>
+  <div className={styles.homePage}>
+    <h2>Welcome to our page!</h2>
 
     <p>
       Here, we aim to make math a fun and enjoyable experience for everyone.
@@ -29,6 +31,6 @@ const Home = () => (
       a little inspiration, the Math Magician website is here to help. Thank
       you for visiting, and we hope you enjoy your time here!
     </p>
-  </nav>
+  </div>
 );
 export default Home;
