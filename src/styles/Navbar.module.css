@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menuList {
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.listElement {
+  margin: 0 6px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.linkedList {
+  font-size: 18px;
+  text-decoration: none;
+  color: snow;
+}

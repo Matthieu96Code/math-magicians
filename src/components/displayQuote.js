@@ -22,7 +22,7 @@ const Quotes = () => {
       }
     };
     fetchData();
-  }, [setData]);
+  }, []);
 
   return (
     <div className="quote">

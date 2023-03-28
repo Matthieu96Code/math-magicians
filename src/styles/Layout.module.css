@@ -1,0 +1,16 @@
+.layout {
+  background-color: honeydew;
+  height: 100vh;
+}
+
+.navbar {
+  background-color: darkslategray;
+  box-shadow: gray 0 10px 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.mainTitle {
+  margin: 16px 0;
+  color: snow;
+}

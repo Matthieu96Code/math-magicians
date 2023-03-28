@@ -1,5 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import styles from '../styles/Navbar.module.css';
 
 const links = [
   { path: 'home', text: 'Home' },
@@ -8,11 +9,11 @@ const links = [
 ];
 
 const Navbar = () => (
-  <nav className="navbar">
-    <ul>
+  <nav className={styles.navbar}>
+    <ul className={styles.menuList}>
       {links.map((link) => (
-        <li key={link.text}>
-          <NavLink to={link.path}>{link.text}</NavLink>
+        <li className={styles.listElement} key={link.text}>
+          <NavLink className={styles.linkedList} to={link.path}>{link.text}</NavLink>
         </li>
       ))}
     </ul>
