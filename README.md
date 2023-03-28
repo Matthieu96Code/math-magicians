@@ -52,7 +52,8 @@
 
 - **Use of React**
 - **calculator design**
-- **operation** 
+- **operation**
+- **Simple Page Application with three pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,6 +135,8 @@ To run the project, execute the following command
 
 
 - [ ] **Add pages**
+- [ ] **Add animations and transitions**
+- [ ] **add a footer**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

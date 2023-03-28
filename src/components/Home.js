@@ -12,16 +12,15 @@ const Home = () => (
 
     <p>
       One of the main features of our website is our calculator.
-      Our calculator is designed to handle a wide range of mathematical functions,
-      from basic arithmetic to complex calculus equations.
+      Our calculator is designed to handle basic arithmetic functions.
       It&apos;s user-friendly and can help you solve problems quickly and accurately.
     </p>
 
     <p>
       In addiion to our calculator, we also have a section on our website
-      dedicated to math quotes. We believe that math can be inspirational
-      and thought-provoking, and we&apos;ve gathered some of the best quotes from
-      mathematicians throughout history to share with our visitors. These quotes
+      dedicated to happiness quotes. We believe that math can be inspirational
+      and thought-provoking, and we&apos;ve gathered some of the best quotes
+      to share with our visitors. These quotes
       are perfect for anyone looking for a little extra motivation or
       inspiration to tackle a difficult math problem.
     </p>
