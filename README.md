@@ -1,5 +1,3 @@
-# JavaScript-capstone-group-project
-
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
