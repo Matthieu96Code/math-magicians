@@ -1,7 +1,7 @@
-import styles from '../styles/Body.module.css';
+import '../styles/Math.css';
 
 const Home = () => (
-  <div className={styles.homePage}>
+  <div className="homePage">
     <h2>Welcome to our page!</h2>
 
     <p>

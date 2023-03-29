@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import styles from '../styles/Navbar.module.css';
+import '../styles/Math.css';
 
 const links = [
   { path: 'home', text: 'Home' },
@@ -9,11 +9,11 @@ const links = [
 ];
 
 const Navbar = () => (
-  <nav className={styles.navbar}>
-    <ul className={styles.menuList}>
+  <nav className="navbar">
+    <ul className="menuList">
       {links.map((link) => (
-        <li className={styles.listElement} key={link.text}>
-          <NavLink to={link.path} className={styles.linkedList}>{link.text}</NavLink>
+        <li className="listElement" key={link.text}>
+          <NavLink to={link.path} className="linkedList">{link.text}</NavLink>
         </li>
       ))}
     </ul>
