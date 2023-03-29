@@ -125,6 +125,12 @@ To run the project, execute the following command
 - Twitter: [@MatthieuSENOU](https://twitter.com/MatthieuSenou)
 - LinkedIn: [Kodjo Matthieu SENOU](https://www.linkedin.com/in/kodjo-matthieu-senou-724a50210/)
 
+👤 **Lornakaboro**
+
+- GitHub:  [@githubhandle](https://github.com/Lornakaboro)
+- Twitter: [@twitterhandle](https://twitter.com/KaboroLorna)
+- Linkedin [@linkedinprofile](https://www.linkedin.com/in/lorna-kaboro-23620b242/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
