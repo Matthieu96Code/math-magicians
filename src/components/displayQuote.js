@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import '../styles/Math.css';
 
 const apiUrl = 'https://api.api-ninjas.com/v1/quotes?category=happiness';
 const key = 'BQMsoYBppXMsrv0ST47LtA==ZtlLHHrcDDqIdkSA';
@@ -22,12 +23,11 @@ const Quotes = () => {
       }
     };
     fetchData();
-  }, [setData]);
+  }, []);
 
   return (
-    <div className="quote">
-      <h1 className="quote-title">Quote</h1>
-      <p>{data || 'loading ...'}</p>
+    <div className="quotePage">
+      <p className="quote">{data || 'loading ...'}</p>
     </div>
   );
 };

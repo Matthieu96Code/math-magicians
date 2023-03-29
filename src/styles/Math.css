@@ -1,0 +1,63 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menuList {
+  margin: 0;
+  padding: 10%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.listElement {
+  margin: 0 6%;
+  list-style: none;
+}
+
+.linkedList {
+  font-size: 18px;
+  text-decoration: none;
+  color: snow;
+}
+
+.linkedList:hover {
+  color: greenyellow;
+}
+
+.layout {
+  background-color: honeydew;
+  height: 100vh;
+}
+
+.mainbar {
+  background-color: rgb(0, 97, 97);
+  box-shadow: gray 0 10px 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.mainTitle {
+  margin: 16px 0;
+  color: snow;
+}
+
+.homePage {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 10%;
+}
+
+.quotePage {
+  background-color: seagreen;
+  margin: 10%;
+  padding: 3% 20px;
+  border: solid 10px saddlebrown;
+}
+
+.quote {
+  color: white;
+  font-style: italic;
+  font-size: 24px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

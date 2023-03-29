@@ -1,5 +1,3 @@
-# JavaScript-capstone-group-project
-
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -52,7 +50,8 @@
 
 - **Use of React**
 - **calculator design**
-- **operation** 
+- **operation**
+- **Simple Page Application with three pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,9 +121,9 @@ To run the project, execute the following command
 👤 **Author 1**
  *SENOU Kodjo Matthieu*
  
-- GitHub: [@Matthieu96Code](https://https://github.com/Matthieu96Code)
-- Twitter: [@MatthieuSENOU](https://https://twitter.com/MatthieuSenou)
-- LinkedIn: [Kodjo Matthieu SENOU](https://https://www.linkedin.com/in/kodjo-matthieu-senou-724a50210/)
+- GitHub: [@Matthieu96Code](https://github.com/Matthieu96Code)
+- Twitter: [@MatthieuSENOU](https://twitter.com/MatthieuSenou)
+- LinkedIn: [Kodjo Matthieu SENOU](https://www.linkedin.com/in/kodjo-matthieu-senou-724a50210/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,6 +133,8 @@ To run the project, execute the following command
 
 
 - [ ] **Add pages**
+- [ ] **Add animations and transitions**
+- [ ] **add a footer**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,7 +146,7 @@ To run the project, execute the following command
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Matthieu96Code/math-magicians.git/issues)
+Feel free to check the [issues page](https://github.com/Matthieu96Code/math-magicians/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
