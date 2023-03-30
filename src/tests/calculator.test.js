@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-// import { render, fireEvent } from '@testing-library/react';
+import { render, fireEvent, screen } from '@testing-library/react';
 import Calculator from '../components/Calculator';
 
 it('renders correctly', () => {
@@ -12,12 +12,20 @@ it('renders correctly', () => {
   expect(tree).toMatchSnapshot();
 });
 
-// it('changes the text when the button is clicked', () => {
-//   const { getByText } = render(<Calculator />);
-//   const button = getByText('9');
-//   const text = getByText('0');
+it('updates screen when a number button is clicked => 2,5,0', () => {
+  render(<Calculator />);
+  fireEvent.click(screen.getByText('2'));
+  fireEvent.click(screen.getByText('5'));
+  fireEvent.click(screen.getByText('0'));
+  expect(screen.getByText('250')).toBeInTheDocument();
+});
 
-//   fireEvent.click(button);
-
-//   expect(text.textContent).toBe('9');
-// });
+it('updates screen when a operation => 8,+,13,=', () => {
+  render(<Calculator />);
+  fireEvent.click(screen.getByText('8'));
+  fireEvent.click(screen.getByText('+'));
+  fireEvent.click(screen.getByText('1'));
+  fireEvent.click(screen.getByText('3'));
+  fireEvent.click(screen.getByText('='));
+  expect(screen.getByText('21')).toBeInTheDocument();
+});
