@@ -12,7 +12,7 @@ it('renders correctly', () => {
   expect(tree).toMatchSnapshot();
 });
 
-it('updates screen when a number button is clicked => 2,5,0', () => {
+it('updates screen when number buttons is clicked => 2,5,0', () => {
   render(<Calculator />);
   fireEvent.click(screen.getByText('2'));
   fireEvent.click(screen.getByText('5'));
@@ -20,7 +20,7 @@ it('updates screen when a number button is clicked => 2,5,0', () => {
   expect(screen.getByText('250')).toBeInTheDocument();
 });
 
-it('updates screen when a operation => 8,+,13,=', () => {
+it('updates screen when make a operation => 8,+,13,=', () => {
   render(<Calculator />);
   fireEvent.click(screen.getByText('8'));
   fireEvent.click(screen.getByText('+'));

@@ -1,6 +1,6 @@
 import calculate from '../logic/calculate';
 
-test('pressed 4', () => {
+test('what happen when pressed 4', () => {
   const obj = {
     next: null,
     operation: null,
@@ -10,7 +10,7 @@ test('pressed 4', () => {
   expect(calculate(obj, buttonName)).toEqual({ next: '4', total: null });
 });
 
-test('pressed unkknow', () => {
+test('from the previous result, what happen when pressed +', () => {
   const obj = {
     next: '4',
     operation: null,
@@ -20,7 +20,7 @@ test('pressed unkknow', () => {
   expect(calculate(obj, buttonName)).toEqual({ next: null, operation: '+', total: '4' });
 });
 
-test('pressed unkknow', () => {
+test('from the previous result, what happen when pressed 8', () => {
   const obj = {
     next: null,
     operation: '+',
@@ -30,7 +30,7 @@ test('pressed unkknow', () => {
   expect(calculate(obj, buttonName)).toEqual({ next: '8', operation: '+', total: '4' });
 });
 
-test('pressed unkknow', () => {
+test('from the previous result, what happen when pressed =', () => {
   const obj = {
     next: '8',
     operation: '+',
@@ -40,7 +40,7 @@ test('pressed unkknow', () => {
   expect(calculate(obj, buttonName)).toEqual({ next: null, operation: null, total: '12' });
 });
 
-test('pressed unkknow', () => {
+test('what happen when pressed AC', () => {
   const obj = {
     next: '13',
     operation: '*',
