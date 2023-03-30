@@ -106,8 +106,11 @@ To run the project, execute the following command
 
 ### Run tests
 
->  Coming Soon
+To run tests, run the following command:
 
+```sh
+  npm run test
+```
 ### Deployment
 
 >  Coming Soon
@@ -125,11 +128,12 @@ To run the project, execute the following command
 - Twitter: [@MatthieuSENOU](https://twitter.com/MatthieuSenou)
 - LinkedIn: [Kodjo Matthieu SENOU](https://www.linkedin.com/in/kodjo-matthieu-senou-724a50210/)
 
-👤 **Lornakaboro**
+👤 **Author 2**
+  *Lornakaboro*
 
-- GitHub:  [@githubhandle](https://github.com/Lornakaboro)
-- Twitter: [@twitterhandle](https://twitter.com/KaboroLorna)
-- Linkedin [@linkedinprofile](https://www.linkedin.com/in/lorna-kaboro-23620b242/)
+- GitHub:  [@Lornakaboro](https://github.com/Lornakaboro)
+- Twitter: [@KaboroLorna](https://twitter.com/KaboroLorna)
+- Linkedin [@lorna-kaboro](https://www.linkedin.com/in/lorna-kaboro-23620b242/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
