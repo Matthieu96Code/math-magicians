@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import '../styles/Math.css';
 
 const links = [
-  { path: 'home', text: 'Home' },
+  { path: '/', text: 'Home' },
   { path: 'calculator', text: 'Calculator' },
   { path: 'quote', text: 'Quote' },
 ];

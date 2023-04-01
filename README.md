@@ -59,7 +59,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> coming soon
+- [Demo link](https://math-magicians-6gfp.onrender.com/quote)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
